@@ -136,6 +136,10 @@ button:hover {
   display: none;
 }
 
+.participants {
+  font-style: italic; /* Add this line to make participants italic */
+}
+
 footer {
   text-align: center;
   margin-top: 30px;
